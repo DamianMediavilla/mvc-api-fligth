@@ -1,0 +1,17 @@
+{
+    "name": "damo/mvc-api-fligth",
+    "autoload": {
+        "psr-4": {
+            "Damo\\MvcApiFligth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Damian Mediavilla",
+            "email": "damianmediavilla@hotmail.com"
+        }
+    ],
+    "require": {
+        "mikecao/flight": "^2.0"
+    }
+}

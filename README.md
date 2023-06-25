@@ -34,3 +34,6 @@ id | identificador | int PK
 nombre | Nombre del producto | string
 precio | Valor en $ | int
 descripcion |Descripcion del producto | text 
+creado | fecha de creacion del proucto| timestamp
+edit | fecha de ultima edicion del proucto| timestamp
+media | reservado para archivos de imagen | text
